@@ -1,0 +1,5 @@
+# Virtual Environment
+.venv
+
+# Misc files
+test_file.txt
