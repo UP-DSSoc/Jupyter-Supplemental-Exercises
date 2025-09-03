@@ -1,0 +1,11 @@
+[project]
+name = "Jupyter-Supplemental-Exercises"
+version = "1.0.1"
+description = "UP Data Science Society Jupyter supplemental exercises"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.2",
+]
