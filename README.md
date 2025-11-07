@@ -61,3 +61,15 @@ deactivate
 # Usage
 
 When locally tinkering with these JSEs, it is best to do so while in a virtual environment with the listed packages above.
+
+# Contributors
+
+Lanz Lagman
+Joshua Castillo
+Dexter To
+Michael Adrian Javier
+Yuan Labaguen
+Arianna Tagulinao
+Junel Isanan
+Heberner Gaton
+Joaquin Castañeda
