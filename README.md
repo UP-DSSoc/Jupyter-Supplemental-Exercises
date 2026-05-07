@@ -64,12 +64,13 @@ When locally tinkering with these JSEs, it is best to do so while in a virtual e
 
 # Contributors
 
-Lanz Lagman
-Joshua Castillo
-Dexter To
-Michael Adrian Javier
-Yuan Labaguen
-Arianna Tagulinao
-Junel Isanan
-Heberner Gaton
-Joaquin Castañeda
+- [Lanz Lagman](https://github.com/LanzLagman)
+- Joshua Castillo
+- Dexter To
+- [Michael Adrian Javier](https://github.com/majavier26)
+- [Yuan Labaguen](https://github.com/appliedbyyuan)
+- [Arianna Tagulinao](https://github.com/ariannatagulinao)
+- [Jay Cruz](https://github.com/jmcruz14)
+- [Junel Isanan](https://github.com/TheEyeOfVision)
+- [Heberner Gaton](https://github.com/hngaton-design)
+- [Joaquin Castañeda](https://github.com/Quijano89)
